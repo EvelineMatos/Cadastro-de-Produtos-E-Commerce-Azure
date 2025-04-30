@@ -1,0 +1,11 @@
+.env
+produtos.json
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env.*
+*.db
+*.log
+.DS_Store
+Laboratorio/.env

@@ -1,0 +1,182 @@
+[
+    {
+        "nome": "Casa Azul",
+        "descricao": "Casa azul de desenho animado",
+        "preco": 1000.0,
+        "imagem_url": null
+    },
+    {
+        "nome": "Casa Azul",
+        "descricao": "Casa azul de desenho animado",
+        "preco": 1000.0,
+        "imagem_url": "https://stadiolab01.blob.core.windows.net/produtos/4498af94-547a-4107-ae97-54a07f7d37bd.jpg"
+    },
+    {
+        "nome": "Casa Azul",
+        "descricao": "CASINHA AZUL DE BRINQUEDO",
+        "preco": 10000.0,
+        "imagem_url": "https://stadiolab01.blob.core.windows.net/produtos/f37eaa01-6a66-4181-9c01-c0774471c84e.jpg"
+    },
+    {
+        "nome": "Casa Amarela",
+        "descricao": "Casa amarela do bairro XPTO",
+        "preco": 12000.3,
+        "imagem_url": "https://stadiolab01.blob.core.windows.net/produtos/59d5495d-e5ff-4780-b9dd-10929e551038.jpg"
+    },
+    {
+        "nome": "Casa V2",
+        "descricao": "Casa Azul Rua AAA",
+        "preco": 230000.0,
+        "imagem_url": "https://stadiolab01.blob.core.windows.net/produtos/e28e4711-8b86-4355-b584-1d8a77a6d941.jpg"
+    },
+    {
+        "nome": "Celular",
+        "descricao": "Celular azure ",
+        "preco": 2550.0,
+        "imagem_url": null
+    },
+    {
+        "nome": "Celular",
+        "descricao": "Celular azure ",
+        "preco": 2550.0,
+        "imagem_url": null
+    },
+    {
+        "nome": "Celular",
+        "descricao": "Celular muito bom",
+        "preco": 2500.0,
+        "imagem_url": null
+    },
+    {
+        "nome": "Celular teste",
+        "descricao": "Teste 1234",
+        "preco": 2500.0,
+        "imagem_url": null
+    },
+    {
+        "nome": "Celular teste",
+        "descricao": "Teste 1234",
+        "preco": 2500.0,
+        "imagem_url": null
+    },
+    {
+        "nome": "Celular teste",
+        "descricao": "Teste 1234",
+        "preco": 2500.0,
+        "imagem_url": null
+    },
+    {
+        "nome": "Celular teste",
+        "descricao": "Teste 1234",
+        "preco": 2500.0,
+        "imagem_url": null
+    },
+    {
+        "nome": "celular",
+        "descricao": "teste de imagem",
+        "preco": 25000.0,
+        "imagem_url": null
+    },
+    {
+        "nome": "Celular teste",
+        "descricao": "Teste 1234",
+        "preco": 2500.0,
+        "imagem_url": null
+    },
+    {
+        "nome": "teste",
+        "descricao": "teste1 ",
+        "preco": 5000.0,
+        "imagem_url": null
+    },
+    {
+        "nome": "celular",
+        "descricao": "teste de imagem",
+        "preco": 25000.0,
+        "imagem_url": ""
+    },
+    {
+        "nome": "celular",
+        "descricao": "teste de imagem",
+        "preco": 24999.99,
+        "imagem_url": ""
+    },
+    {
+        "nome": "teste",
+        "descricao": "teste",
+        "preco": 250.01,
+        "imagem_url": null
+    },
+    {
+        "nome": "teste",
+        "descricao": "teste",
+        "preco": 250.01,
+        "imagem_url": null
+    },
+    {
+        "nome": "teste",
+        "descricao": "teste",
+        "preco": 250.01,
+        "imagem_url": null
+    },
+    {
+        "nome": "celular",
+        "descricao": "Teste",
+        "preco": 250.0,
+        "imagem_url": null
+    },
+    {
+        "nome": "mobile",
+        "descricao": "teste",
+        "preco": 50000.0,
+        "imagem_url": null
+    },
+    {
+        "nome": "mobile",
+        "descricao": "teste",
+        "preco": 200.0,
+        "imagem_url": null
+    },
+    {
+        "nome": "mobile",
+        "descricao": "teste",
+        "preco": 200.0,
+        "image_url": null
+    },
+    {
+        "nome": "teste do celular",
+        "descricao": "teste 1234",
+        "preco": 500.0,
+        "image_url": false
+    },
+    {
+        "nome": "notebook samsung",
+        "descricao": "notebook teste",
+        "preco": 5000.0,
+        "image_url": false
+    },
+    {
+        "nome": "casa",
+        "descricao": "teste 156",
+        "preco": 600.0,
+        "image_url": false
+    },
+    {
+        "nome": "casa",
+        "descricao": "teste 156",
+        "preco": 600.0,
+        "image_url": "https://stadevlab001eastus001eve.blob.core.windows.net/produtos/1e04080a-9e3f-49a5-a0a6-8f3dedf85b25.jpg"
+    },
+    {
+        "nome": "celular note",
+        "descricao": "teste tetete",
+        "preco": 1000.01,
+        "image_url": "https://stadevlab001eastus001eve.blob.core.windows.net/produtos/3aa1bc49-8271-458e-ad10-684734a90609.jpg"
+    },
+    {
+        "nome": "celular note 25",
+        "descricao": "teste tetete",
+        "preco": 1000.01,
+        "image_url": "https://stadevlab001eastus001eve.blob.core.windows.net/produtos/507a51a0-c103-4e43-bc1e-5778259f7e9b.jpg"
+    }
+]
